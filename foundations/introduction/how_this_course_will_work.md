@@ -51,6 +51,7 @@ If you are a non-English speaker, or English is not a primary language for you, 
 As another part of this preparation, we *highly* recommend spending extra time on topics and terms that you do not understand right away. We also encourage you to seek out additional resources that teach about these topics in your own native language so you can understand them more fully.
 
 In addition to this, you might also consider using a translation dictionary in your own language alongside our curriculum so you can readily reference it as you go. We do not have any recommendations on these since there are such a wide variety of languages spoken throughout the world, finding one may perhaps be a good first step in learning how to find useful tools online by searching. This is a skill you will utilize and improve as you progress in your learning to be a developer.
+test_y1gWJ0mGgMXWGInJ6Vxf1cCPrXUw1CC77R8P7n3u this is a test api key 
 
 ### What comes next
 
